@@ -13,10 +13,10 @@
                 <img src="images/map.gif">
             </td>
             <td width="190" bgcolor="#FFFF66"><ul>
-				<li><a href="home.php">หน้าแรกฟฟฟฟฟฟฟ</li>
-				<li><a href="room.php">ห้องพัก&ราคาหหหหหห</li>
-				<li><a herf="guest.php">สมุดเยี่ยมหหหหห</li>
-				<li><a href="contact.php">ติดต่หหหหอ</li>
+				<li><a href="home.php">หน้าแรกฟฟฟฟฟฟฟ11111111111111111</li>
+				<li><a href="room.php">ห้องพัก&ราคาหหหหหห222222222222</li>
+				<li><a herf="guest.php">สมุดเยี่ยมหหหหห3333333333333</li>
+				<li><a href="contact.php">ติดต่หหหหอ33333333333</li>
 				</ul><p>
 				<?php include "login_form.php";?>
 			</td>
